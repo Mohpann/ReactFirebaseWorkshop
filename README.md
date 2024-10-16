@@ -1,4 +1,9 @@
 This repository is being used to run the React.js + Google Firebase technical workshop series for ACM@UIC. The code for all examples and demonstrations is held within this repo.
+# Getting started
+- Git clone to your working directory
+- Run `npm install` to download needed node modules
+- Run a script listed below
+- I recommend running `npm start`
 
 ## Available Scripts
 
